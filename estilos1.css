@@ -11,5 +11,5 @@ link {color: purple;font-size: 2em;}
 #retrato {width: 30%;}
 a:visited{color: grey;}
 link:hover {color: red;font-size:20pt;background-color: yellow;}
-link:active {color: green;font-weight: bold;}
+link:active {color: green;font-weight: bold; } 
 
