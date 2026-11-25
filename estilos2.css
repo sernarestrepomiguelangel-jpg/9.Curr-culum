@@ -1,0 +1,12 @@
+h1 {color: green;font-weight: bold;font-size: 30px;text-align: right;}
+p {color: green;font-family: Arial, Helvetica, sans-serif;font-size: 10pt;text-align: center;}
+h2 {background-color: blue;color: yellow;font-family: 'Courier New', Courier, monospace;}
+h3 {color: green;background-color: red;font-family: 'Courier New', Courier, monospace;font-size: 12px;}
+table,th,td {background-color: orange;border: 2px solid red;}
+a {text-decoration: none;font-size: 1.5em;}
+link {text-decoration: none;font-weight: bold;font-size: 1.5em;color: green;}
+link:visited {color: green;font-style: italic;}
+link:hover {color: orange;background-color: green;font-size: 18pt;font-family: Arial, Helvetica, sans-serif;font-weight: bold;}
+.importante {color: pink;background-color: lightyellow;font-size: 15pt;font-weight: bold;font-style: italic;}
+titulo-grande {font-weight: bold;font-size: 20px;color: orange;}
+#retrato {width: 30%;}
